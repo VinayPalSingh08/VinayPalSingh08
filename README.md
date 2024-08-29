@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VinayPalSingh08](https://github.com/VinayPalSingh08)
 
-- 💬 Ask me about **html,css,c++ and AWS Cloud Computing**
+- 💬 Ask me about **HTML,CSS,C++and AWS Cloud Computing**
 
 - 📫 How to reach me **palsinghvinay5@gmail.com**
 
